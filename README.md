@@ -14,7 +14,7 @@ My notable achievements include successfully building products from 0 to 1+ at v
  * **Travel Technology**: Airline reservation systems, hotel management, ticketing solutions
  * **Retail & Commerce**: Point-of-sale (POS), ERP systems, e-commerce platforms
  * **Agri-Fintech**: Trade finance solutions for agricultural commodity trading
- * **AI/ML**: SaaS solutions, underbanked credit scoring, eKYC, LLM integrations (chatbots, analysis, summarization, recommendations)
+ * **AI/ML**: SAS solutions, underbanked credit scoring, eKYC, LLM integrations (chatbots, analysis, summarization, recommendations)
 
 
 ## 🛠️ Tech Stack
