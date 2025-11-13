@@ -1,6 +1,6 @@
 # Hi, I'm Alex Hung
 
-I am a software engineer generalist and leader with over 20 years of experience, spanning roles from system administrator and database administrator to software development and management. I have worked with diverse enterprise systems and tech stacks, including Java, PHP, .NET, Node.js, Python, and Golang.
+I am a generalist software engineer and leader with over 20 years of experience, spanning roles from system administrator and database administrator to software development and management. I have worked with diverse enterprise systems and tech stacks, including Java, PHP, .NET, Node.js, Python, and Golang.
 
 This background provides a significant advantage in complex integration projects, allowing me to quickly identify root causes of issues and maintain an architectural mindset adaptable to a company's evolving needs.
 
