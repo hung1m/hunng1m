@@ -1,22 +1,21 @@
-### Hi there, I'm Alex Hung Nguyen 👋
+## Hi there, I'm Alex Hung Nguyen
 
-**Principal Software Engineer | Technical Team Lead | Calgary, Canada 🇨🇦**
-*(Open Work Permit Holder - Available Immediately)*
+**Principal Software Engineer | Technical Team Lead | 🇨🇦**
 
 I am a **hands-on technical leader** with over 20 years of experience traversing the full infrastructure-to-application spectrum—from System/DB Admin to Software Architect and Engineering Manager.
 
 I don't just design systems; I build them. My background allows me to bridge the gap between complex architectural vision and operational reality, identifying root causes quickly and adapting stacks to business evolution.
 
-#### 🚀 What I bring to the table:
-* **Complex System Integration:** Deep expertise in diverse integration patterns (ESB, Event-Driven, API Gateways) within **mission-critical Banking/Fintech environments**. I possess a sharp instinct for diagnosing architectural bottlenecks and architecting resilient, fail-safe solutions.
-* **Polyglot Engineering:** Fluent in **Java, Golang, Python, and Typescript/Node.js**. I don't follow hype; I pick the right tool for the job.
+### 🚀 What I bring to the table:
+* **Complex System Integration:** Deep expertise in diverse integration patterns (ESB, Event-Driven, API Gateways) within mission-critical Banking/Fintech environments. I possess a sharp instinct for diagnosing architectural bottlenecks and architecting resilient, fail-safe solutions.
+* **Polyglot Engineering:** Fluent in Java, Golang, Python, and Typescript/Node.js. I don't follow hype; I pick the right tool for the job.
 * **0 → 1 Builder:** Successfully launched multiple products from scratch to revenue generation ($1M+), balancing speed-to-market with long-term maintainability.
 * **Scalability Mindset:** Experience in modernizing legacy monoliths into distributed microservices on AWS or apply a cloud-agnostic approach.
 * **Leadership:** Experience managing teams of 10–30 engineers while staying technically active (code reviews, RFCs, core implementation).
 
 ---
 
-#### 🛠 Tech Stack & Domain Expertise
+### 🛠 Tech Stack & Domain Expertise
 
 **Languages & Core:**
 `Java` `Golang` `Python` `TypeScript/Node.js` `SQL` `Microservices`
